@@ -1,0 +1,48 @@
+#title
+{
+    background-color: #FFAE42;
+}
+.burger
+{
+    position: fixed;
+    right: 250px;
+}
+.head
+{
+    padding-top: 20px;
+    margin-bottom: 15%;
+    padding-left: 2%;
+    margin-right: 25px;
+    padding-bottom: 25%;
+    font-family: 'Ubuntu';
+    font-size: x-large;
+}
+.sub-head
+{
+    font-family: 'Montserrat-Black';
+    text-align: center;
+    font-size: medium;
+}
+.sub-header
+{
+    font-family: 'Changa One', cursive;
+    text-align: center;
+    font-size: 100px;
+}
+.lines
+{
+    border-style: dashed;
+    border-width: 2px;
+}
+.head-4
+{
+    margin-top: 50px;
+    margin-bottom: 3%;
+    padding-left: 2%;
+    margin-right: 35%;
+    margin-left: 35%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+    background-color: #FFAE42;
+}
